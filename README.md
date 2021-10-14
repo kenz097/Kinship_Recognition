@@ -1,5 +1,6 @@
 # Kinship_Recognition
 Progetto universitario per riconoscere l'eventuale parentela tra due o più persone.
+
 In totale ci sono 3 diversi file:
 -Il file FVAB_Project contiene i train con le due reti neurali e i relativi test 
 -Il file Face_cut_in_video contiene la terza parte riguardante l'estrapolazione dei volti per il test sulle puntate dei soliti ignoti e il test stesso
